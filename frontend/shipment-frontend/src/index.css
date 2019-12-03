@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-material .nav-wrapper .brand-logo img {
+  height: 64px;
+} 
+
+table {
+  table-layout: fixed;
+  width: 200px;
+}
+
+th,
+td {
+  width: 150px;
+  overflow: hidden;
+}
