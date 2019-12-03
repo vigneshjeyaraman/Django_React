@@ -1,0 +1,35 @@
+*.pyc
+*.db
+*~
+.*
+
+/site/
+/htmlcov/
+/coverage/
+/build/
+/dist/
+/*.egg-info/
+/env/
+/venv/
+MANIFEST
+coverage.*
+.DS_Store
+.project
+.pydevproject
+local.py
+logfile.log
+!.editorconfig
+!.gitignore
+!.travis.yml
+!.isort.cfg
+*.log*
+*.idea
+*.py[cod]
+__pycache__/
+env/
+venv/
+log/
+# /migrations/
+# migrations/
+*.sh
+*.log
